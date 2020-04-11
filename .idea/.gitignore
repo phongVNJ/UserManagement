@@ -1,0 +1,24 @@
+.idea
+artifacts
+libraries
+index.jsp
+jdbcTest.iml
+web.xml
+# Default ignored files
+/workspace.xml
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+artifacts
+dataSources
+libraries
+lib
+out
+dataSources.local.xml
+dataSources.xml
+misc.xml
+index.jsp
+workspace.xml
+jdbcTest.iml
+modules.xml
